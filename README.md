@@ -1,2 +1,9 @@
 # Database-AI-Agents
 Database AI Agents and Assistants.
+
+Key Topics Covered:
+AI agents and their practical uses
+LangChain framework
+Creating AI agents that can handle CSV and SQL data
+Implementing advanced function calling for database interactions
+Building interactive applications
